@@ -1,0 +1,7 @@
+Python modules required:
+1. json
+2. openpyxl
+3. operator
+4. os
+5. textfsm
+6. tkinter

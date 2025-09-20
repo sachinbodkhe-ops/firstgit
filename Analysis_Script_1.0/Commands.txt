@@ -1,0 +1,12 @@
+  terminal length 0
+  show arp
+  show cdp neighbors
+  show interfaces
+  show interfaces description
+  show interfaces status
+  show inventory
+  show ip interface brief
+  show mac address-table
+  show running-config
+  show version
+  show vlan

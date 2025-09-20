@@ -1,0 +1,36 @@
+To generate the report:
+  show arp
+  show cdp neighbors
+  show interfaces
+  show interfaces description
+  show interfaces status
+  show inventory
+  show ip interface brief
+  show mac address-table
+  show running-config
+  show version
+  show vlan
+
+Active Port Check:
+  show interfaces
+
+Endpoint Discovery:
+  show arp
+  show cdp neighbors
+  show interfaces status
+  show mac address-table
+  show version
+
+CDP Scan:
+  show cdp neighbors
+  show version
+  show inventory
+
+VLAN Scan:
+  show interfaces description
+  show ip interface brief
+  show version
+  show vlan
+
+VLAN Scan for running config:
+  show running-config
